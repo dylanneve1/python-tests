@@ -11,4 +11,4 @@ firstName = input("Enter first name: ")
 secondName = input("Enter second name: ")
 
 # Print input
-print("\n\n" + names(firstName, secondName))
+print("\n\n" + "Hello " + names(firstName, secondName))
