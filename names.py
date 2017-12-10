@@ -2,7 +2,7 @@
 
 # Add names
 def names(x, y):
-    return x + y
+    return x + "" + y
 
 print("Hello my name is Dylan, what is yours?\n\n")
 
