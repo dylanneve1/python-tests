@@ -2,7 +2,7 @@
 
 # Add names
 def names(x, y):
-    return x + "" + y
+    return x + " " + y
 
 print("Hello my name is Dylan, what is yours?\n\n")
 
@@ -11,4 +11,4 @@ firstName = input("Enter first name: ")
 secondName = input("Enter second name: ")
 
 # Print input
-print(names(firstName, secondName))
+print("\n\n" + names(firstName, secondName))
