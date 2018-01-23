@@ -27,4 +27,3 @@ country = input("I live in ")
 print("\n\n")
 
 print("So you're " + firstName + " from " + country)
-
